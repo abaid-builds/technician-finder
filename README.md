@@ -136,11 +136,11 @@ Completed:
 -  Real-time chat with quote system
 -  Live booking tracking
 -  Notification system (FCM)
--  Admin panel — approvals, disputes, revenue
 
 In progress:
 -  Additional booking flow refinements
 -  Performance optimizations
+-  Admin panel — approvals, disputes, revenue
 
 ---
 
