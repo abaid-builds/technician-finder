@@ -5,7 +5,6 @@ across Pakistan. Customers can discover nearby technicians by service category,
 chat in real-time, negotiate quotes, and track live job progress — all while 
 maintaining complete privacy between both parties.
 
-![Home Screen](assets/screenshots/home-screen.png)
 
 ---
 
