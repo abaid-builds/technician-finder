@@ -5,6 +5,8 @@ across Pakistan. Customers can discover nearby technicians by service category,
 chat in real-time, negotiate quotes, and track live job progress — all while 
 maintaining complete privacy between both parties.
 
+<img src="assets/screenshots/home-screen.png" width="300">
+
 
 ---
 
@@ -35,26 +37,44 @@ honesty ratings, and real-time tracking.
 
 ## Screenshots
 
-### Home — Service Category Discovery
-![Home Screen](assets/screenshots/home-screen.png)
-
-### Technician Results — Sorted by Distance & Availability
-![Technician Results](assets/screenshots/technician-results.png)
-
-### Technician Profile — Rating, Experience & Honesty Score
-![Technician Profile](assets/screenshots/technician-profile.png)
-
-### Chat & Quote — Negotiation in Progress
-![Chat Quote Pending](assets/screenshots/chat-quote-pending.png)
-
-### Chat & Quote — Accepted & Booking Confirmed
-![Chat Quote Accepted](assets/screenshots/chat-quote-accepted.png)
-
-### Active Booking — Customer Side Live Tracking
-![Active Booking Customer](assets/screenshots/active-booking-customer.png)
-
-### Active Booking — Technician Side Navigation
-![Active Booking Technician](assets/screenshots/active-booking-technician.png)
+<table>
+<tr>
+<td align="center">
+<img src="assets/screenshots/home-screen.png" width="220"><br>
+<sub><b>Home — Service Categories</b></sub>
+</td>
+<td align="center">
+<img src="assets/screenshots/technician-results.png" width="220"><br>
+<sub><b>Technician Results</b></sub>
+</td>
+<td align="center">
+<img src="assets/screenshots/technician-profile.png" width="220"><br>
+<sub><b>Technician Profile</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="assets/screenshots/chat-quote-pending.png" width="220"><br>
+<sub><b>Chat — Quote Negotiation</b></sub>
+</td>
+<td align="center">
+<img src="assets/screenshots/chat-quote-accepted.png" width="220"><br>
+<sub><b>Chat — Quote Accepted</b></sub>
+</td>
+<td align="center">
+<img src="assets/screenshots/active-booking-customer.png" width="220"><br>
+<sub><b>Active Booking — Customer</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="assets/screenshots/active-booking-technician.png" width="220"><br>
+<sub><b>Active Booking — Technician</b></sub>
+</td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 ---
 
